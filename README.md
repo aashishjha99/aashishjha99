@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning full stack 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- instagram : https://www.instagram.com/_aashishjha_
 
 
 <!---
