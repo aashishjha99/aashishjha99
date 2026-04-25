@@ -1,16 +1,19 @@
 # Hi there 👋, I'm Aashish Jha!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer+at+Paychex;Java+Full+Stack+Developer;AI+Engineering+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 👀 I’m deeply interested in **Full Stack Development**
-- 🌱 I’m currently honing my skills and learning more about building scalable web applications.
-- 💞️ I’m looking to collaborate on exciting open-source projects or innovative ideas!
-- ⚡ Fun fact: I love exploring new technologies and writing clean code.
+- 🚀 **Software Engineer at Paychex**, crafting robust backend architectures and scalable systems in Bengaluru.
+- 🏗️ **Java Specialist** with a deep focus on **Spring Boot, Security 6 (JWT/OAuth2)**, and the emerging frontier of **Spring AI**.
+- 🧠 Recently certified **AI Engineer**, bridging the gap between traditional software engineering and intelligent system integration.
+- ✍️ **Technical Author** published on **OpenGenus**, sharing insights on C structures, reCAPTCHA verification, and real-time displays.
+- 🛡️ Expert in building resilient systems using **Resilience4j**, **Rate Limiting**, and **SOLID Design Patterns**.
+- 🤝 Passionate about **Empathetic Leadership**—I believe great code is built by trusted, happy teams.
+- ⚡ Fun fact: When I'm not debugging, I'm likely exploring the latest in AI or engaging with a community of 3,000+ tech enthusiasts.
 
 ---
 
@@ -18,8 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Customize the icons list based on your actual tech stack! -->
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,git,github,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,postgres,cpp,dotnet,html,css,git,github,docker&perline=12" />
   </a>
 </p>
 
