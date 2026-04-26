@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Aashish Jha!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer+at+Paychex;Java+Full+Stack+Developer;AI+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer+at+Paychex;Java+Full+Stack+Developer;AI+Engineering+Enthusiast&v=1" alt="Typing SVG" />
 </div>
 
 ---
@@ -29,8 +29,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashishjha99&show_icons=true&theme=radical&hide_border=true" alt="Aashish's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishjha99&theme=radical&hide_border=true" alt="Aashish's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aashishjha99&show_icons=true&theme=radical&hide_border=true&v=1" alt="Aashish's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishjha99&theme=radical&hide_border=true&v=1" alt="Aashish's Streak" width="48%" />
 </div>
 
 ---
@@ -49,4 +49,8 @@
   </a>
 </p>
 
-<!---\naashishjha99/aashishjha99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.\nYou can click the Preview link to take a look at your changes.\n--->
+<!-- Last Updated: 2026-04-26 08:35:00 UTC -->
+<!--
+aashishjha99/aashishjha99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+-->
