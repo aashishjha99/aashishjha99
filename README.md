@@ -11,7 +11,6 @@
 - 🏗️ **Java Specialist** with a deep focus on **Spring Boot, Security 6 (JWT/OAuth2)**, and the emerging frontier of **Spring AI**.
 - 🧠 Recently certified **AI Engineer**, bridging the gap between traditional software engineering and intelligent system integration.
 - ✍️ **Technical Author** published on **OpenGenus**, sharing insights on C structures, reCAPTCHA verification, and real-time displays.
-- 🛡️ Expert in building resilient systems using **Resilience4j**, **Rate Limiting**, and **SOLID Design Patterns**.
 - 🤝 Passionate about **Empathetic Leadership**—I believe great code is built by trusted, happy teams.
 - ⚡ Fun fact: When I'm not debugging, I'm likely exploring the latest in AI or engaging with a community of 3,000+ tech enthusiasts.
 
